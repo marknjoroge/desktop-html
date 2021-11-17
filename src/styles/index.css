@@ -1,0 +1,8 @@
+#current-speed {
+    display: none;
+}
+
+#values {
+    max-height: 120px;
+    overflow-y: scroll;
+}
